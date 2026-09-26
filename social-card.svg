@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#faf7f0"/><stop offset=".58" stop-color="#e8dcc8"/><stop offset="1" stop-color="#c7a875"/></linearGradient>
+  <radialGradient id="glow" cx=".78" cy=".28" r=".5"><stop offset="0" stop-color="#d39a42" stop-opacity=".38"/><stop offset="1" stop-color="#d39a42" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<rect width="1200" height="630" fill="url(#glow)"/>
+<g opacity=".14" fill="#12120f"><circle cx="80" cy="90" r="2"/><circle cx="116" cy="132" r="2"/><circle cx="1040" cy="530" r="2"/><circle cx="1090" cy="480" r="2"/><circle cx="970" cy="570" r="2"/></g>
+<path d="M0 485 Q220 410 430 475 T820 455 T1200 430 V630 H0Z" fill="#344331" opacity=".9"/>
+<path d="M0 520 Q260 445 500 520 T900 500 T1200 475 V630 H0Z" fill="#6f7650" opacity=".75"/>
+<circle cx="950" cy="155" r="72" fill="#e5b45e" opacity=".85"/>
+<g transform="translate(790 92) rotate(3)">
+  <rect x="64" y="60" width="72" height="88" rx="14" fill="#242318"/>
+  <rect x="45" y="128" width="110" height="270" rx="25" fill="#191913" stroke="#4b4329"/>
+  <rect x="57" y="248" width="86" height="104" fill="#e9dfca"/>
+  <text x="100" y="281" text-anchor="middle" font-family="Georgia,serif" font-size="28" font-weight="700" fill="#171711">SP</text>
+  <text x="100" y="307" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1" fill="#171711">CERVEZA</text>
+  <text x="100" y="320" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1" fill="#171711">SAN PATRICIO</text>
+</g>
+<text x="86" y="112" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="4" fill="#9c5b38">HECHA EN SAN PATRICIO DEL CHAÑAR</text>
+<text x="82" y="235" font-family="Georgia,serif" font-size="82" font-weight="600" fill="#12120f">Cerveza</text>
+<text x="82" y="322" font-family="Georgia,serif" font-size="82" font-weight="500" font-style="italic" fill="#9b6a2e">San Patricio.</text>
+<text x="86" y="380" font-family="Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="4" fill="#756f63">DESIERTO · AGUA · CHACRA · ENCUENTRO</text>
+<text x="86" y="548" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3" fill="#f1eadc">SAN PATRICIO DEL CHAÑAR · NEUQUÉN · ARGENTINA</text>
+</svg>
