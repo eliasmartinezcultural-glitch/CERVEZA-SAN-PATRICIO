@@ -1,0 +1,12 @@
+{
+  "name": "Cerveza San Patricio · San Patricio del Chañar",
+  "short_name": "Cerveza San Patricio",
+  "description": "Cerveza San Patricio, hecha en San Patricio del Chañar, Neuquén.",
+  "lang": "es-AR",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf7f0",
+  "theme_color": "#12120f"
+}
